@@ -1,3 +1,0 @@
-Writing something in the feature1 file
-
-;)
